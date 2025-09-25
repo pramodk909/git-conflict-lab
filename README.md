@@ -1,0 +1,2 @@
+# git-conflict-lab
+conflicts
